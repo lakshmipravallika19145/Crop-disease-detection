@@ -1,6 +1,8 @@
-data/
 venv/
 __pycache__/
 *.pyc
+data/
 *.joblib
- 
+*.pkl
+.DS_Store
+Thumbs.db
