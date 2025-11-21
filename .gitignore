@@ -1,8 +1,7 @@
-data/
 venv/
 __pycache__/
 *.pyc
 *.pkl
-*.joblib
+*.h5
+*.model
 .DS_Store
-Thumbs.db
